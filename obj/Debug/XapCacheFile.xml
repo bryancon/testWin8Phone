@@ -1,0 +1,36 @@
+﻿<xapCache source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\CordovaExample_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="16/05/2013 00:57:35">
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\obj\Debug\CordovaExample.dll" archivePath="CordovaExample.dll" lastWriteTime="16/05/2013 00:57:35" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\obj\Debug\en-US\CordovaExample.resources.dll" archivePath="en-US\CordovaExample.resources.dll" lastWriteTime="16/05/2013 00:57:35" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\config.xml" archivePath="config.xml" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\cordova-2.4.0.js" archivePath="www\cordova-2.4.0.js" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\cordova-current.js" archivePath="www\cordova-current.js" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\network.html" archivePath="www\network.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\notification.html" archivePath="www\notification.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\storage.html" archivePath="www\storage.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\accelerometer.html" archivePath="www\accelerometer.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\accelerometer2.html" archivePath="www\accelerometer2.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\audio.html" archivePath="www\audio.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\calculator.html" archivePath="www\calculator.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\camera.html" archivePath="www\camera.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\capture.html" archivePath="www\capture.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\compass.html" archivePath="www\compass.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\contacts.html" archivePath="www\contacts.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\events.html" archivePath="www\events.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\file.html" archivePath="www\file.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\index.html" archivePath="www\index.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\location.html" archivePath="www\location.html" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\www\master.css" archivePath="www\master.css" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\SplashScreenImage.jpg" archivePath="SplashScreenImage.jpg" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="16/05/2013 00:57:35" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Images\appbar.feature.video.rest.png" archivePath="Images\appbar.feature.video.rest.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Images\appbar.stop.rest.png" archivePath="Images\appbar.stop.rest.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Images\appbar.save.rest.png" archivePath="Images\appbar.save.rest.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Images\appbar.back.rest.png" archivePath="Images\appbar.back.rest.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Images\appbar.close.rest.png" archivePath="Images\appbar.close.rest.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Images\appbar.next.rest.png" archivePath="Images\appbar.next.rest.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\ApplicationIcon.png" archivePath="ApplicationIcon.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Background.png" archivePath="Background.png" lastWriteTime="16/05/2013 00:54:33" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\framework\Bin\Debug\WPCordovaClassLib.dll" archivePath="WPCordovaClassLib.dll" lastWriteTime="16/05/2013 00:57:34" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\templates\standalone\cordovalib\resources\notification-beep.wav" archivePath="CordovaLib\resources\notification-beep.wav" lastWriteTime="16/05/2013 00:54:34" />
+  <file source="C:\Users\Bryan\Downloads\phonegap-2.4.0\phonegap-2.4.0\lib\windows-phone-8\example\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="16/05/2013 00:57:35" />
+</xapCache>
